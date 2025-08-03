@@ -1,0 +1,393 @@
+{
+  "countries": [
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/countries/in_1.jpg"
+      ],
+      "name": "India",
+      "status": "active",
+      "code": "IN",
+      "slug": "india"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/countries/cn_1.jpg"
+      ],
+      "name": "China",
+      "status": "active",
+      "code": "CN",
+      "slug": "china"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/countries/jp_1.jpg"
+      ],
+      "name": "Japan",
+      "status": "active",
+      "code": "JP",
+      "slug": "japan"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/countries/th_1.jpg"
+      ],
+      "name": "Thailand",
+      "status": "active",
+      "code": "TH",
+      "slug": "thailand"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/countries/id_1.jpg"
+      ],
+      "name": "Indonesia",
+      "status": "active",
+      "code": "ID",
+      "slug": "indonesia"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/countries/vn_1.jpg"
+      ],
+      "name": "Vietnam",
+      "status": "active",
+      "code": "VN",
+      "slug": "vietnam"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/countries/sg_1.jpg"
+      ],
+      "name": "Singapore",
+      "status": "active",
+      "code": "SG",
+      "slug": "singapore"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/countries/my_1.jpg"
+      ],
+      "name": "Malaysia",
+      "status": "active",
+      "code": "MY",
+      "slug": "malaysia"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/countries/ae_1.jpg"
+      ],
+      "name": "United Arab Emirates",
+      "status": "active",
+      "code": "AE",
+      "slug": "united-arab-emirates"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/countries/tr_1.jpg"
+      ],
+      "name": "Turkey",
+      "status": "active",
+      "code": "TR",
+      "slug": "turkey"
+    }
+  ],
+  "cities": [
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/delhi_1.jpg"
+      ],
+      "name": "Delhi",
+      "status": "active",
+      "code": "DEL",
+      "slug": "delhi"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/mumbai_1.jpg"
+      ],
+      "name": "Mumbai",
+      "status": "active",
+      "code": "MUM",
+      "slug": "mumbai"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/bangalore_1.jpg"
+      ],
+      "name": "Bangalore",
+      "status": "active",
+      "code": "BAN",
+      "slug": "bangalore"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/jaipur_1.jpg"
+      ],
+      "name": "Jaipur",
+      "status": "active",
+      "code": "JAI",
+      "slug": "jaipur"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/agra_1.jpg"
+      ],
+      "name": "Agra",
+      "status": "active",
+      "code": "AGR",
+      "slug": "agra"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/udaipur_1.jpg"
+      ],
+      "name": "Udaipur",
+      "status": "active",
+      "code": "UDA",
+      "slug": "udaipur"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/chennai_1.jpg"
+      ],
+      "name": "Chennai",
+      "status": "active",
+      "code": "CHE",
+      "slug": "chennai"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/beijing_1.jpg"
+      ],
+      "name": "Beijing",
+      "status": "active",
+      "code": "BEI",
+      "slug": "beijing"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/shanghai_1.jpg"
+      ],
+      "name": "Shanghai",
+      "status": "active",
+      "code": "SHA",
+      "slug": "shanghai"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/guangzhou_1.jpg"
+      ],
+      "name": "Guangzhou",
+      "status": "active",
+      "code": "GUA",
+      "slug": "guangzhou"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/shenzhen_1.jpg"
+      ],
+      "name": "Shenzhen",
+      "status": "active",
+      "code": "SHE",
+      "slug": "shenzhen"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/hong_kong_1.jpg"
+      ],
+      "name": "Hong Kong",
+      "status": "active",
+      "code": "HON",
+      "slug": "hong-kong"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/tokyo_1.jpg"
+      ],
+      "name": "Tokyo",
+      "status": "active",
+      "code": "TOK",
+      "slug": "tokyo"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/kyoto_1.jpg"
+      ],
+      "name": "Kyoto",
+      "status": "active",
+      "code": "KYO",
+      "slug": "kyoto"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/osaka_1.jpg"
+      ],
+      "name": "Osaka",
+      "status": "active",
+      "code": "OSA",
+      "slug": "osaka"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/bangkok_1.jpg"
+      ],
+      "name": "Bangkok",
+      "status": "active",
+      "code": "BKK",
+      "slug": "bangkok"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/chiang_mai_1.jpg"
+      ],
+      "name": "Chiang Mai",
+      "status": "active",
+      "code": "CHI",
+      "slug": "chiang-mai"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/phuket_1.jpg"
+      ],
+      "name": "Phuket",
+      "status": "active",
+      "code": "PHU",
+      "slug": "phuket"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/bali_1.jpg"
+      ],
+      "name": "Bali",
+      "status": "active",
+      "code": "BAL",
+      "slug": "bali"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/jakarta_1.jpg"
+      ],
+      "name": "Jakarta",
+      "status": "active",
+      "code": "JAK",
+      "slug": "jakarta"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/yogyakarta_1.jpg"
+      ],
+      "name": "Yogyakarta",
+      "status": "active",
+      "code": "YOG",
+      "slug": "yogyakarta"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/hanoi_1.jpg"
+      ],
+      "name": "Hanoi",
+      "status": "active",
+      "code": "HAN",
+      "slug": "hanoi"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/ho_chi_minh_city_1.jpg"
+      ],
+      "name": "Ho Chi Minh City",
+      "status": "active",
+      "code": "HO ",
+      "slug": "ho-chi-minh-city"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/da_nang_1.jpg"
+      ],
+      "name": "Da Nang",
+      "status": "active",
+      "code": "DA ",
+      "slug": "da-nang"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/singapore_1.jpg"
+      ],
+      "name": "Singapore",
+      "status": "active",
+      "code": "SIN",
+      "slug": "singapore"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/kuala_lumpur_1.jpg"
+      ],
+      "name": "Kuala Lumpur",
+      "status": "active",
+      "code": "KUA",
+      "slug": "kuala-lumpur"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/penang_1.jpg"
+      ],
+      "name": "Penang",
+      "status": "active",
+      "code": "PEN",
+      "slug": "penang"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/langkawi_1.jpg"
+      ],
+      "name": "Langkawi",
+      "status": "active",
+      "code": "LAN",
+      "slug": "langkawi"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/dubai_1.jpg"
+      ],
+      "name": "Dubai",
+      "status": "active",
+      "code": "DUB",
+      "slug": "dubai"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/abu_dhabi_1.jpg"
+      ],
+      "name": "Abu Dhabi",
+      "status": "active",
+      "code": "ABU",
+      "slug": "abu-dhabi"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/istanbul_1.jpg"
+      ],
+      "name": "Istanbul",
+      "status": "active",
+      "code": "IST",
+      "slug": "istanbul"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/antalya_1.jpg"
+      ],
+      "name": "Antalya",
+      "status": "active",
+      "code": "ANT",
+      "slug": "antalya"
+    },
+    {
+      "images": [
+        "https://s3.amazonaws.com/geo/cities/cappadocia_1.jpg"
+      ],
+      "name": "Cappadocia",
+      "status": "active",
+      "code": "CAP",
+      "slug": "cappadocia"
+    }
+  ]
+}
